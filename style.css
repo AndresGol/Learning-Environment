@@ -48,8 +48,9 @@ p{
 
 #image{
     width: 100%;
-    background-color:#140A25;
+    background-image: url(images/flat.jpg);
     height: 350px;
+    background-size: cover;
     
 }
 #image img {
@@ -62,9 +63,9 @@ p {color: thistle;}
 
 #video {
     width: 100%;
-    background-color:#dc3b30;
+    background-color:#140A25;
 }
-#video iframe {margin-left:20%; }
+#video iframe {margin-left:11.5%; }
 
 #footer {
     width: 100%;
