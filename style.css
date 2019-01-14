@@ -64,8 +64,14 @@ p {color: thistle;}
     width: 100%;
     background-color:#dc3b30;
 }
+#video iframe {margin-left:20%; }
 
 #footer {
     width: 100%;
-    background-color: yellow;
+    background-color: #140A25;
+    height: 100px;
+}
+#footer address{
+    color: blanchedalmond;
+    padding: 2em;
 }
