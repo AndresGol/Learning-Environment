@@ -9,6 +9,10 @@ h1{font-family: 'Coiny', cursive;
     margin-left: 10%;
 
 }
+
+ul {list-style: none}
+li::before {content: "•"; color:#DB2B30}
+
 p{
 
 }
