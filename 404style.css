@@ -1,0 +1,76 @@
+
+
+body {
+}
+
+
+h1{text-align: center;
+    font-size: 7em;
+    -webkit-transition: -webkit-transform 1.8s ease-in-out;
+          transition:         transform 1.8s ease-in-out;
+    font-family: 'Coiny', cursive;
+    color: beige;
+}
+
+h1:hover{color: indigo;
+    font-size: 12em;
+    opacity: 0.3;
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
+
+h2{
+    font-family: Coiny;
+    text-align: center;
+    color: aliceblue;font-size: 3em;
+}
+h3{text-align:center;
+color: aliceblue;
+font-family: Coiny;
+font-size: 4em;
+
+}
+
+h4{
+    
+    font-family: roboto;
+    text-align: center;
+}
+
+
+
+#tete {background-color: darkkhaki;
+    width: 100%;
+    height: 1080px;
+    
+}
+
+#left {background-color:grey;
+    width: 50%;
+    float: left;
+    height: 1080px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#right {background-image:url(images/patin.jpg);
+    width: 50%;
+    float: left;
+    height:1080px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+   
+}

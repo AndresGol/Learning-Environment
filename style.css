@@ -53,9 +53,14 @@ p{
     background-size: cover;
     
 }
-#image img {
-    width: 60%;
-    margin-left: 20%;
+#image h2{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    background-color: #140A259F;
+    background-size: 30%;
+    padding: 20px;
+    text-align: center;
+
 
 
 }
